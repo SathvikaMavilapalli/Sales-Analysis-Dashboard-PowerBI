@@ -34,11 +34,6 @@ Tools & Technologies
 * Bookmarks & Buttons
 * Interactive Slicers
 
-
-
-
-## 👩‍💻 Author
-
-**Sathvika M**
-
-Aspiring Data Analyst passionate about transforming data into actionable insights through dashboards and visual analytics.
+Author
+Sathvika Mavilapalli
+-Aspiring Data Analyst passionate about transforming data into actionable insights through dashboards and visual analytics.
